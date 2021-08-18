@@ -12,7 +12,7 @@ I hold a Ph.D. in mechanical engineering from GA Tech and have over 16 years of 
 
 *[ELEMENTS](https://github.com/lanl/ELEMENTS/): Is a C++ finite element library that supports a rich set of methods and capabilities to implement numerical methods on low-order and high-order meshes.
 
-*[Fierro](https://github.com/lanl/Fierro): Is a C++ computational mechanics code that contains a continuous finite element, discontinuous finite element (i.e., DG), and finite volume methods.  The Fierro code builds on the ELEMENTS library. The DG method is designed for high-order meshes.
+*[Fierro](https://github.com/lanl/Fierro): Is a C++ computational mechanics code that contains continuous finite element, discontinuous finite element (i.e., DG), and finite volume methods.  The Fierro code builds on the ELEMENTS library. The DG method is designed for high-order meshes.
 
 
 
