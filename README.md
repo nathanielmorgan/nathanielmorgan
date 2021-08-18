@@ -6,7 +6,7 @@
 
 
 ## Experience
-I hold a Ph.D. in mechanical engineering from GA Tech and have over 16 years of experience creating novel numerical methods and writing software for physics and engineering analysis. I am a technical leader for multiple code development efforts related to computational physics and engineering applications. Several open-source code development projects that I lead are provided. 
+I hold a Ph.D. in mechanical engineering from GA Tech and have over 16 years of experience creating novel numerical methods and writing software for physics and engineering analysis. I am a technical leader for multiple code development efforts and for creating high-order numerical methods. Several open-source code development projects that I lead are provided. 
 
 *[MATAR](https://github.com/lanl/MATAR): Is a C++ library to support intricate data types that arise in diverse applications and extends the capabilities of the kokkos library for performance portability across multi-core CPUs and GPUs.
 
